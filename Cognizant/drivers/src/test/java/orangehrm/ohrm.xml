@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="orangehrm" verbose="2">
+<test name="login">
+<classes>
+<class name="orangehrm.orangehrm"></class>
+<class name="orangehrm.ohrmprofile">
+</class>
+
+</classes>
+</test>
+</suite>
